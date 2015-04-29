@@ -1,0 +1,60 @@
+!SESSION 2015-04-30 02:41:20.086 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2015-04-30 02:41:41.479
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-04-30 02:41:41.479
+!MESSAGE A conflict occurred for CTRL+F5:
+Binding(CTRL+F5,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.internal.action.UpdateAction,Update,
+		Update selected Pictogram Elements,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F5,
+	ParameterizedCommand(Command(com.spket.ui.tasks.refresh_tasks,Refresh Tasks,
+		,
+		Category(org.eclipse.ui.category.project,Project,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.352
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.535
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.544
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.566
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.578
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.592
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.614
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.630
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.651
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.669
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-04-30 02:41:42.687
+!MESSAGE Installed snippet library: D:\Program Files (x86)\Genuitec\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\struts_tiles_snippets.xml
